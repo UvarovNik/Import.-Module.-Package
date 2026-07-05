@@ -1,7 +1,9 @@
 
 from datetime import datetime, date, time
 from Crypto.Cipher import AES
-from dirty_main import *
+from application.modules.salary import calculate_salary
+from application.modules.people import get_employees
+
 
 
 if __name__ == '__main__':

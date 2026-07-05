@@ -4,3 +4,4 @@ Import.-Module.-Package.iml
 .idea
 myenv
 __pycache__
+.venv
